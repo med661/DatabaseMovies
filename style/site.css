@@ -1,0 +1,60 @@
+
+
+.footer h5{
+    color: rgb(26, 23, 2);
+    padding: 7px 7px;
+    text-align: center;
+
+}
+.footer{
+    background-color: #5b78c7;
+}
+.sidebar{
+    margin-top: 30px;
+background-color: #5b78c7;
+float: right;
+width:321px ;
+height: 100%;
+margin-right: 50px;
+
+
+
+}
+.sidebar h4{
+
+    color: darkgrey;
+    text-align: center;
+    font-size: 200%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #24386e;
+  }
+.article{
+
+max-height: 100%;
+
+
+  width: 250px;
+}
+
